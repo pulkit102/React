@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 export default function Navbar(props) {
 
- /* const toggleMode = () => {
+ /* const toggleMode = () => 
     if (props.mode === 'dark') {
       setMode('light');
       setModetxt("enable light mode");

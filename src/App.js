@@ -19,7 +19,7 @@ function App() {
     } else {
       setMode('dark');
       setModetxt("enable light mode");
-      document.body.style.backgroundColor = '#042743';
+      document.body.style.backgroundColor = '#042744';
     }
   }
 

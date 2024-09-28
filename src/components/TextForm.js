@@ -13,7 +13,7 @@ export default function TextForm(props){
     const handleonChange=(event)=>{
         //console.log('on Change');
         setText(event.target.value)
-        //setText(target.value);//now i can enter anything in the text area
+        //setText(target.value);//now i can enter anything in the text area 
     }
     const handleclrchnge=()=>{
         let newText=" ";
